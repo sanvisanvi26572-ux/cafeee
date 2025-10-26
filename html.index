@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Restaurant Menu</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Our Delicious Menu</h1>
+        </header>
+        <main>
+            <section class="category">
+                <h2>Appetizers</h2>
+                <div class="menu-item">
+                    <h3>Spring Rolls</h3>
+                    <p>Crispy vegetable spring rolls with sweet chili sauce.</p>
+                    <span>$5.99</span>
+                </div>
+                <div class="menu-item">
+                    <h3>Garlic Bread</h3>
+                    <p>Toasted bread with garlic butter and herbs.</p>
+                    <span>$4.50</span>
+                </div>
+            </section>
+            <!-- Add more categories and menu items -->
+        </main>
+        <footer>
+            <p>&copy; 2025 Your Restaurant</p>
+        </footer>
+    </body>
+    </html>
